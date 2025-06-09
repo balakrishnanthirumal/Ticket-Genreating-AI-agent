@@ -3,7 +3,7 @@ import { StrictMode } from "react";
 import { createRoot } from "react-dom/client";
 import "./index.css";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
-import CheckAuth from "./components/checkAuth.jsx";
+import CheckAuth from "./components/CheckAuth.jsx";
 import Tickets from "./pages/tickets.jsx";
 import Ticket from "./pages/Ticket.jsx";
 import Login from "./pages/Login.jsx";
